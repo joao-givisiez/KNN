@@ -1,0 +1,30 @@
+# Scripts auxiliares (nao fazem parte da entrega)
+src/testes.py
+src/escalabilidade.py
+src/gerar_relatorio.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
